@@ -7,7 +7,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielNunezPe/GabrielNunezPe/profilescape-output/hero-dark.svg" />
-  <img src="https://raw.githubusercontent.com/GabrielNunezPe/GabrielNunezPe/profilescape-output/hero-light.svg" alt="Gabriel Núñez — Frontend Developer" width="100%" />
+  <img src="https://raw.githubusercontent.com/GabrielNunezPe/GabrielNunezPe/profilescape-output/hero-light.svg" alt="Gabriel Núñez — FullStack Developer" width="100%" />
 </picture>
 
 <p align="center">
@@ -88,10 +88,10 @@
 
 🌐 **Portfolio:** [gabrielnunezpe.github.io](https://gabrielnunezpe.github.io)
 
-¡Hola! Soy **Gabriel**, desarrollador frontend. Me gusta construir interfaces rápidas, accesibles y fáciles de mantener, y creo que el código limpio es la mejor documentación.
+¡Hola! Soy **Gabriel**, desarrollador FullStack. Me gusta construir interfaces rápidas, accesibles y fáciles de mantener, y creo que el código limpio es la mejor documentación.
 
 - 🔭 Trabajando en **[ArtHub](https://github.com/GabrielNunezPe/ArtHub)**, una red social para compartir arte (React + TypeScript + Appwrite)
-- 🌱 Aprendiendo **testing y arquitectura frontend**
+- 🌱 Aprendiendo **testing y arquitectura FullStack**
 - 💬 Pregúntame sobre **Vue.js, React y JavaScript moderno**
 - 📚 Libro de cabecera: **Clean Code**
 - 🎮 Fuera del teclado: **videojuegos retro, series y café**
