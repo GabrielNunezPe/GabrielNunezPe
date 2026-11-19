@@ -5,7 +5,78 @@
 
 <!-- profilescape:start -->
 
-<p align="center"><i>Las tarjetas del perfil aparecerán aquí tras la primera ejecución del workflow <b>Profilescape</b> (pestaña Actions → Run workflow).</i></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielNunezPe/GabrielNunezPe/profilescape-output/hero-dark.svg" />
+  <img src="https://raw.githubusercontent.com/GabrielNunezPe/GabrielNunezPe/profilescape-output/hero-light.svg" alt="Gabriel Núñez — Full Stack Developer · Azure" width="100%" />
+</picture>
+
+<p align="center">
+<a href="https://github.com/GabrielNunezPe">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielNunezPe/GabrielNunezPe/profilescape-output/social-github-dark.svg" />
+  <img src="https://raw.githubusercontent.com/GabrielNunezPe/GabrielNunezPe/profilescape-output/social-github-light.svg" alt="GitHub" />
+</picture>
+</a>
+<a href="https://www.linkedin.com/in/gabrielnunezperez">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielNunezPe/GabrielNunezPe/profilescape-output/social-linkedin-dark.svg" />
+  <img src="https://raw.githubusercontent.com/GabrielNunezPe/GabrielNunezPe/profilescape-output/social-linkedin-light.svg" alt="LinkedIn" />
+</picture>
+</a>
+<a href="mailto:2eganunez@gmail.com">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielNunezPe/GabrielNunezPe/profilescape-output/social-email-dark.svg" />
+  <img src="https://raw.githubusercontent.com/GabrielNunezPe/GabrielNunezPe/profilescape-output/social-email-light.svg" alt="Email" />
+</picture>
+</a>
+<a href="https://gabrielnunezpe.github.io">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielNunezPe/GabrielNunezPe/profilescape-output/social-portfolio-dark.svg" />
+  <img src="https://raw.githubusercontent.com/GabrielNunezPe/GabrielNunezPe/profilescape-output/social-portfolio-light.svg" alt="Portfolio" />
+</picture>
+</a>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielNunezPe/GabrielNunezPe/profilescape-output/stack-dark.svg" />
+  <img src="https://raw.githubusercontent.com/GabrielNunezPe/GabrielNunezPe/profilescape-output/stack-light.svg" alt="Tecnologías: JavaScript, TypeScript, Vue.js, React, Vite, Tailwind CSS, Node.js, Azure, appwrite, Git, GitHub" width="100%" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielNunezPe/GabrielNunezPe/profilescape-output/stats-dark.svg" />
+  <img src="https://raw.githubusercontent.com/GabrielNunezPe/GabrielNunezPe/profilescape-output/stats-light.svg" alt="GitHub stats: 10 contributions in the last 12 months. Current streak: 1 day, Longest streak: 1 day, Commits: 8 past year, All-time: 13 since 2019, Active days: 1 of 366, On GitHub: 7 years." width="100%" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielNunezPe/GabrielNunezPe/profilescape-output/3d-dark.svg" />
+  <img src="https://raw.githubusercontent.com/GabrielNunezPe/GabrielNunezPe/profilescape-output/3d-light.svg" alt="3D contribution landscape: 10 contributions in the last year" width="100%" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielNunezPe/GabrielNunezPe/profilescape-output/languages-dark.svg" />
+  <img src="https://raw.githubusercontent.com/GabrielNunezPe/GabrielNunezPe/profilescape-output/languages-light.svg" alt="Most used languages (by commits): JavaScript 100.0%" width="100%" />
+</picture>
+
+<table>
+  <tr>
+    <td width="50%">
+<a href="https://github.com/GabrielNunezPe/GabrielNunezPe.github.io">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielNunezPe/GabrielNunezPe/profilescape-output/repo-gabrielnunezpe-gabrielnunezpe-github-io-dark.svg" />
+  <img src="https://raw.githubusercontent.com/GabrielNunezPe/GabrielNunezPe/profilescape-output/repo-gabrielnunezpe-gabrielnunezpe-github-io-light.svg" alt="GabrielNunezPe.github.io: Mi portfolio personal" width="100%" />
+</picture>
+</a>
+    </td>
+    <td width="50%">
+<a href="https://github.com/GabrielNunezPe/ArtHub">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielNunezPe/GabrielNunezPe/profilescape-output/repo-gabrielnunezpe-arthub-dark.svg" />
+  <img src="https://raw.githubusercontent.com/GabrielNunezPe/GabrielNunezPe/profilescape-output/repo-gabrielnunezpe-arthub-light.svg" alt="ArtHub" width="100%" />
+</picture>
+</a>
+    </td>
+  </tr>
+</table>
 
 <!-- profilescape:end -->
 
