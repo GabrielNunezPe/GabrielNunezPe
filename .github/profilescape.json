@@ -1,0 +1,40 @@
+// Configuración de las tarjetas del perfil.
+// Prueba temas y opciones en https://chethandvg.github.io/profilescape
+{
+  "theme": "tokyonight",
+  "cards": ["hero", "socials", "stack", "stats", "3d", "languages", "repos"],
+  "hideLanguages": ["HTML", "CSS"],
+  "colors": { "accentA": "#8B5CF6", "accentB": "#3B82F6" },
+  "options": {
+    "hero": {
+      "name": "Gabriel Núñez",
+      "role": "Frontend Developer",
+      "tagline": ["Construyo interfaces rápidas, limpias y agradables de usar.", "Fan del Clean Code, los videojuegos retro y las buenas sagas."],
+      "chips": ["JavaScript", "TypeScript", "Vue.js", "React", "Tailwind CSS"],
+      "status": "abierto a colaborar",
+      "codeLanguage": "javascript",
+      "codeFile": "gabriel.js",
+      "code": "const gabriel = {\n  rol: 'Frontend Developer',\n  stack: ['Vue.js', 'React', 'TypeScript'],\n  aprendiendo: ['Testing', 'Arquitectura frontend'],\n  valores: ['Clean Code', 'Accesibilidad', 'UX'],\n  hobbies: ['Retro gaming', 'Series', 'Lectura'],\n  cafe: Infinity,\n};\nexport default gabriel;"
+    },
+    "socials": {
+      "links": {
+        // Añade tus redes aquí (descomenta y rellena):
+        // "linkedin": "tu-usuario",
+        // "email": "tu@email.com",
+        // "custom": [{ "label": "Portfolio", "url": "https://tu-web.dev" }]
+      }
+    },
+    "stack": {
+      "icons": ["javascript", "typescript", "vuedotjs", "react", "vite", "tailwindcss", "nodedotjs", "appwrite", "git", "github"],
+      "title": "Tecnologías",
+      "perRow": 10
+    },
+    "stats": {
+      "title": "Estadísticas",
+      "metrics": ["currentStreak", "longestStreak", "commits", "allTime", "activeDays", "years"]
+    },
+    "languages": { "layout": "donut", "top": 6, "title": "Lenguajes más usados" },
+    "3d": { "scale": "sqrt" },
+    "repos": { "count": 4, "title": "Proyectos destacados" }
+  }
+}

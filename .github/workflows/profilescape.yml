@@ -1,0 +1,30 @@
+name: Profilescape
+
+# Genera las tarjetas del perfil y actualiza README.md entre los marcadores
+# <!-- profilescape:start --> y <!-- profilescape:end -->.
+# Opciones: https://github.com/chethandvg/profilescape#inputs
+
+on:
+  schedule:
+    - cron: "23 4 * * *" # todos los días a las 04:23 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profilescape
+  cancel-in-progress: true
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: chethandvg/profilescape@v1
+        with:
+          config: .github/profilescape.json
+          readme: README.md
+          # Opcional: crea el secreto PROFILESCAPE_TOKEN para incluir contribuciones privadas.
+          token: ${{ secrets.PROFILESCAPE_TOKEN || github.token }}
