@@ -8,13 +8,13 @@
   "options": {
     "hero": {
       "name": "Gabriel Núñez",
-      "role": "Frontend Developer",
-      "tagline": ["Construyo interfaces rápidas, limpias y agradables de usar.", "Fan del Clean Code, los videojuegos retro y las buenas sagas."],
-      "chips": ["JavaScript", "TypeScript", "Vue.js", "React", "Tailwind CSS"],
+      "role": "Full Stack Developer · Azure",
+      "tagline": ["Apps web de punta a punta, del frontend a la nube.", "Fan del Clean Code, los videojuegos retro y las buenas sagas."],
+      "chips": ["TypeScript", "Vue.js", "React", "Node.js", "Azure"],
       "status": "abierto a colaborar",
       "codeLanguage": "javascript",
       "codeFile": "gabriel.js",
-      "code": "const gabriel = {\n  rol: 'Frontend Developer',\n  stack: ['Vue.js', 'React', 'TypeScript'],\n  aprendiendo: ['Testing', 'Arquitectura frontend'],\n  valores: ['Clean Code', 'Accesibilidad', 'UX'],\n  hobbies: ['Retro gaming', 'Series', 'Lectura'],\n  cafe: Infinity,\n};\nexport default gabriel;"
+      "code": "const gabriel = {\n  rol: 'Full Stack Developer',\n  stack: ['Vue.js', 'React', 'Node.js'],\n  nube: 'Microsoft Azure',\n  aprendiendo: ['Testing', 'Arquitectura cloud'],\n  valores: ['Clean Code', 'Accesibilidad', 'UX'],\n  cafe: Infinity,\n};\nexport default gabriel;"
     },
     "socials": {
       "links": {
@@ -24,9 +24,9 @@
       }
     },
     "stack": {
-      "icons": ["javascript", "typescript", "vuedotjs", "react", "vite", "tailwindcss", "nodedotjs", "appwrite", "git", "github"],
+      "icons": ["javascript", "typescript", "vuedotjs", "react", "vite", "tailwindcss", "nodedotjs", "azure:Azure", "appwrite", "git", "github"],
       "title": "Tecnologías",
-      "perRow": 10
+      "perRow": 11
     },
     "stats": {
       "title": "Estadísticas",
