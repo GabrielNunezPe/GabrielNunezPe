@@ -18,10 +18,9 @@
     },
     "socials": {
       "links": {
-        // Añade tus redes aquí (descomenta y rellena):
-        // "linkedin": "tu-usuario",
-        // "email": "tu@email.com",
-        // "custom": [{ "label": "Portfolio", "url": "https://tu-web.dev" }]
+        "linkedin": "gabrielnunezperez",
+        "email": "2eganunez@gmail.com",
+        "custom": [{ "label": "Portfolio", "url": "https://gabrielnunezpe.github.io" }]
       }
     },
     "stack": {
