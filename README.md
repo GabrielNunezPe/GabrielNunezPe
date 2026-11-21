@@ -44,7 +44,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielNunezPe/GabrielNunezPe/profilescape-output/stats-dark.svg" />
-  <img src="https://raw.githubusercontent.com/GabrielNunezPe/GabrielNunezPe/profilescape-output/stats-light.svg" alt="GitHub stats: 10 contributions in the last 12 months. Current streak: 1 day, Longest streak: 1 day, Commits: 8 past year, All-time: 13 since 2019, Active days: 1 of 366, On GitHub: 7 years." width="100%" />
+  <img src="https://raw.githubusercontent.com/GabrielNunezPe/GabrielNunezPe/profilescape-output/stats-light.svg" alt="GitHub stats: 10 contributions in the last 12 months. Current streak: 0 days, Longest streak: 1 day, Commits: 8 past year, All-time: 13 since 2019, Active days: 1 of 366, On GitHub: 7 years." width="100%" />
 </picture>
 
 <picture>
